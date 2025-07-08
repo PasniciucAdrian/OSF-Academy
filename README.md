@@ -16,17 +16,17 @@ This repository documents the progress and deliverables from my 4-week QA intern
 
 
 
-\## 🗓️ Week 1: Bug Analysis \& First Test Cases
+\##  Week 1: Bug Analysis \& First Test Cases
 
 
 
-\- 📌 Files:
+\-  Files:
 
 &nbsp; - `Week1Bugs.pdf`
 
 &nbsp; - `Week1TestCases.pdf`
 
-\- ✅ Activities:
+\-  Activities:
 
 &nbsp; - Analyzed the Login functionality of the SiteGenesis demo site.
 
@@ -42,11 +42,11 @@ This repository documents the progress and deliverables from my 4-week QA intern
 
 
 
-\## 🧪 Week 2: Test Documentation \& Module Mapping
+\##  Week 2: Test Documentation \& Module Mapping
 
 
 
-\- 📌 Files:
+\-  Files:
 
 &nbsp; - `Week2Test Cases.pdf`
 
@@ -54,7 +54,7 @@ This repository documents the progress and deliverables from my 4-week QA intern
 
 &nbsp; - `Week2ListOfModules.pdf`
 
-\- ✅ Activities:
+\-  Activities:
 
 &nbsp; - Designed a complete suite of \*\*functional test cases\*\* for the Login area.
 
@@ -70,11 +70,11 @@ This repository documents the progress and deliverables from my 4-week QA intern
 
 
 
-\## 🧩 Week 3: Test Strategies \& Broader Coverage
+\##  Week 3: Test Strategies \& Broader Coverage
 
 
 
-\- 📌 Files:
+\-  Files:
 
 &nbsp; - `Week3BugsReport.pdf`
 
@@ -82,7 +82,7 @@ This repository documents the progress and deliverables from my 4-week QA intern
 
 &nbsp; - `Week3TwoTestMethods.pdf`
 
-\- ✅ Activities:
+\-  Activities:
 
 &nbsp; - Created a \*\*Smoke Test Plan\*\* with critical flows like Login, Checkout, Search, etc.
 
@@ -100,7 +100,7 @@ This repository documents the progress and deliverables from my 4-week QA intern
 
 
 
-\## 📎 Summary of Skills Gained
+\##  Summary of Skills Gained
 
 
 
